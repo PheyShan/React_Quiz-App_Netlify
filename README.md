@@ -3,6 +3,26 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Visit the deployed page here: https://react-quizapp88.netlify.app/
 
+# General Information
+The purpose of this project is to demonstrate my understanding of React Hooks and fetching data from open source API.
+
+# Languages used
+- ReactJS - Hooks
+- CSS
+
+# Tools used
+- Open source API - Open Trivia DB
+- Git
+- Visual Studio Code
+
+# Features used
+- Media query
+- React context
+- Axios
+
+# Details
+The quiz website is designed using ReactJS Hooks with the use of CSS styling. It also demonstrates on how the questionaires being fetched from the open source API via Axios method.
+
 ## Available Scripts
 
 In the project directory, you can run:
