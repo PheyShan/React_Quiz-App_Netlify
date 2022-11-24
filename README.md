@@ -15,7 +15,7 @@ The purpose of this project is to demonstrate my understanding of React Hooks an
 - Git
 - Visual Studio Code
 
-# Features used
+# Concepts used
 - Media query
 - React context
 - Axios
