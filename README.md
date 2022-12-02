@@ -21,7 +21,7 @@ The purpose of this project is to demonstrate my understanding of React Hooks an
 - Axios
 
 # Details
-The quiz website is designed using ReactJS Hooks with the use of CSS styling. It also demonstrates on how the questionaires being fetched from the open source API via Axios method.
+The quiz website is designed using ReactJS Hooks with the use of CSS styling. It also demonstrates on how the questionaires being fetched from the open source API via Axios method. React context is used in the application in order to avoid the problem of props drilling.
 
 ## Available Scripts
 
